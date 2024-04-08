@@ -5,3 +5,8 @@ body {
 div {
     max-width: 1200px;
 }
+
+span {
+    color: red;
+    border: 1px solid blue;
+}
